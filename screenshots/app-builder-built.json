@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Заглушка поручня УАЗ",
+      "hasCanvas": false,
+      "bodyTextLen": 125,
+      "bodyTextHash": "351d328299c58ccee01b05700ae49b220d1efa8723123a9a55ad99dfc9d4b569",
+      "bodyTextPrefix": "Собираем модель… 316300-5402154-00 Заглушка поручня УАЗ Патриот,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Заглушка поручня УАЗ",
+      "hasCanvas": false,
+      "bodyTextLen": 125,
+      "bodyTextHash": "351d328299c58ccee01b05700ae49b220d1efa8723123a9a55ad99dfc9d4b569",
+      "bodyTextPrefix": "Собираем модель… 316300-5402154-00 Заглушка поручня УАЗ Патриот,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text collapsed (518 -> 125 chars)",
+    "mobile: body text collapsed (518 -> 125 chars)"
+  ]
+}

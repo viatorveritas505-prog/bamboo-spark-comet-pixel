@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Заглушка поручня УАЗ",
+      "hasCanvas": false,
+      "bodyTextLen": 518,
+      "bodyTextHash": "322dea8b64f692452a35e164a9e556e83d418668ca2bb7f82bd9d67a739c981e",
+      "bodyTextPrefix": "Собираем модель… Изометрия Лицо Спинка Сбоку Тяните, чтобы повер",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Заглушка поручня УАЗ",
+      "hasCanvas": false,
+      "bodyTextLen": 518,
+      "bodyTextHash": "322dea8b64f692452a35e164a9e556e83d418668ca2bb7f82bd9d67a739c981e",
+      "bodyTextPrefix": "Собираем модель… Изометрия Лицо Спинка Сбоку Тяните, чтобы повер",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
